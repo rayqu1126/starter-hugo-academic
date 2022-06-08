@@ -29,7 +29,7 @@ experience:
     location: Chapel Hill, NC
     date_start: '2019-10-20'
     date_end: ''
-    description: |2-
+    description: 'Conducted simulations and theoretical research on active spin waves from hydrodynamic spin lattices (HSLs).'
   #    Responsibilities include:
         
   #      * Analysing
