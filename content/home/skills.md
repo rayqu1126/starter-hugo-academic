@@ -26,6 +26,11 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
+    
+  - description:
+    icon: java
+    icon_pack: fab
+    name: Java
 
 
 # Uncomment to use emoji icons.
