@@ -25,8 +25,15 @@ experience:
                 
   - title: 'Research Assistant'
     company: 'Physical Math Lab'
-    company_url: 'https://www.pml.unc.edu/'
-    location: 'Chapel Hill, NC'
-    date_start: '2019-10'
+    company_url: ''
+    location: 'Chapel Hill NC'
+    date_start: '2019-10-20'
     date_end: ''
     description: 'Studying active spin waves in hydrodynamic spin lattices (HSLs) with simulations and theoretical developments.'
+
+
+design:
+  # Choose a view for the listings:
+  view: compact
+  columns: '2'
+---
