@@ -22,7 +22,7 @@ education:
     - course: B.S. Statistics and Analytics; Applied Mathematics
       institution: University of North Carolina at Chapel Hill
       year: 2021
-    - course: Ph.D. Computational and Applied Mathematics
+    - course: (In Progress) Ph.D. Computational and Applied Mathematics
       institution: Rice University
 email: Ray.Qu@rice.edu
 superuser: true
