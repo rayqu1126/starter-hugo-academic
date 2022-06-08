@@ -20,6 +20,12 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
+    
+    
+  - description:
+    icon: fa-python
+    icon_pack: fa-brands
+    name: Python
 
 
 # Uncomment to use emoji icons.
