@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: Research Assistant
-    company: Physical Math Lab
-    company_url: 'https://www.pml.unc.edu/'
-    company_logo: org-gc
-    location: Chapel Hill, NC
-    date_start: '2019-10-20'
-    date_end: ''
-    description: 'Conducted simulations and theoretical research on active spin waves from hydrodynamic spin lattices (HSLs).'
+  #  - title: Research Assistant
+   # company: Physical Math Lab
+  #  company_url: 'https://www.pml.unc.edu/'
+  #  company_logo: org-gc
+  #  location: Chapel Hill, NC
+  #  date_start: '2019-10-20'
+  #  date_end: ''
+  #  description: 'Conducted simulations and theoretical research on active spin waves from hydrodynamic spin lattices (HSLs).'
   #    Responsibilities include:
         
   #      * Analysing
