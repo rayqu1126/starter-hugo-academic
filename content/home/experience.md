@@ -24,10 +24,10 @@ date_format: Jan 2006
 experience:
     - title: Research Assistant
     company: Physical Math Lab
-    company_url: ''
+    company_url: 'https://www.pml.unc.edu/'
     company_logo: org-gc
     location: Chapel Hill, NC
-    date_start: '2019-10'
+    date_start: '2019-10-20'
     date_end: ''
     description: |2-
   #    Responsibilities include:
