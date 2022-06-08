@@ -23,8 +23,8 @@ feature:
     
     
   - description:
-    icon: fa-python
-    icon_pack: fa-brands
+    icon: python
+    icon_pack: fab
     name: Python
 
 
