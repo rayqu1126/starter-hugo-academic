@@ -25,7 +25,7 @@ experience:
                 
   - title: 'Research Assistant'
     company: 'Physical Math Lab'
-    company_url: ''
+    company_url: 'pml.unc.edu'
     location: 'Chapel Hill, NC'
     date_start: '2019-10-20'
     date_end: ''
