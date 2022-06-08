@@ -28,4 +28,4 @@ email: Ray.Qu@rice.edu
 superuser: true
 highlight_name: true
 ---
-Welcome! I am a PhD student at Rice University CAAM Department. My research interests include nonlinear dynamics, fluid mechanics, data science, and optimization. I received my Bachelor of Science degree from the University of North Carolina at Chapel Hill. During my undergraduate study, I was fortunate to work with Prof. [P](https://www.pml.unc.edu/about-me)edro Sáenz and Rodolfo Rosales on hydrodynamics spin lattices (HSLs). [](https://www.pml.unc.edu/about-me)
+Welcome! I am a PhD student at Rice University CAAM Department. My research interests include nonlinear dynamics, fluid mechanics, data science, and optimization. I received my Bachelor of Science degree from the University of North Carolina at Chapel Hill. During my undergraduate study, I was fortunate to work with Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and [Rodolfo Rosales](https://math.mit.edu/directory/profile.php?pid=228) on hydrodynamics spin lattices (HSLs).
