@@ -29,5 +29,3 @@ superuser: true
 highlight_name: true
 ---
 Welcome! I am a PhD student at Rice University CAAM Department. My research interests include nonlinear dynamics, fluid mechanics, data science, and optimization. I received my Bachelor of Science degree from the University of North Carolina at Chapel Hill, where I was fortunate to work with Prof. Pedro Sáenz and Rodolfo Rosales on hydrodynamics spin lattices (HSLs).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{< /staticref >}}.
