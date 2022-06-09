@@ -28,19 +28,19 @@ content:
   email: Ray.Qu@rice.edu
   phone: 919 904 9996
   address:
-    street: 
-    city: 
-    region: 
-    postcode: ''
+    street: 6100 Main St. - MS 134
+    city: Houston
+    region: TX
+    postcode: '77005'
     country: United States
     country_code: US
   coordinates:
     latitude: ''
     longitude: ''
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: TBA
   office_hours:
-    - ''
-    - ''
+    - 'TBA'
+    - 'TBA'
 
 
 design:
