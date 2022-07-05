@@ -1,7 +1,7 @@
 ---
 title: Ray Qu
 role: Ph.D. Student in Computational and Applied Math
-avatar_filename: download.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
