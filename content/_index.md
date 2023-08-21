@@ -63,7 +63,7 @@ sections:
         street: Duncan Hall 2118, 6100 Main St. -MS 134
         city: Houston
         region: TX
-        postcode: '77098'
+        postcode: '77005'
         country: United States
         country_code: US
       directions: My office (#2118) is located on the second floor of Anne and Charles Duncan Hall.
