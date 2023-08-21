@@ -27,7 +27,7 @@ sections:
       items:
         - title: Undergraduate & Postbaccalaureate Research Assistant
           company: Physical Math Lab
-          company_url: https://pml.unc.edu'
+          company_url: https://pml.unc.edu
           company_logo:
           location: Chapel Hill, NC
           date_start: '2019-10-01'
