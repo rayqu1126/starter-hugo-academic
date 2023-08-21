@@ -76,7 +76,7 @@ sections:
       directions: My office (#2118) is located on the second floor of Anne and Charles Duncan Hall.
       office_hours:
         - 'Monday 10:00 to 13:00'
-        - 'It is always welcome to stop by my office when I'm available.'
+        - 'Wednesday 09:00 to 10:00'
       # Automatically link email and phone or display as text?
       autolink: true
 
