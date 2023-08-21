@@ -32,7 +32,7 @@ sections:
           location: Chapel Hill, NC
           date_start: '2019-09'
           date_end: '2022-08'
-          description: Studied active spin waves in hydrodynamic spin lattices (HSLs) with theoretical development and numerical experiments.
+          description: 
     design:
       columns: '2'
     
