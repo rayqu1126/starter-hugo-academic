@@ -75,8 +75,8 @@ sections:
         country_code: US
       directions: My office (#2118) is located on the second floor of Anne and Charles Duncan Hall.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'to be arranged'
+        - 'It is always welcome to stop by my office when I'm available.'
       # Automatically link email and phone or display as text?
       autolink: true
 
