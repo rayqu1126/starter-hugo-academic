@@ -43,7 +43,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: pubilcation
+    id: publication
     content:
       title: Recent Publications
       text: |-
@@ -60,9 +60,6 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
