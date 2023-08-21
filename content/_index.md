@@ -35,6 +35,14 @@ sections:
           description: Studied active spinwaves in hydrodymanic spin lattices (HSLs) with theoretical development and numerical experiments.
     design:
       columns: '2'
+
+  - block: markdown
+    id: conference
+    content:
+      title: Conference and Talks
+      text: 2023 Finite Element Rodeo (Texas A&M, College Station, TX)
+    design:
+      columns: '2'
  
   - block: collection
     id: publication
