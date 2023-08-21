@@ -61,20 +61,19 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: Ray.Qu@rice.edu
+      phone: N/A
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
+        street: 'Duncan Hall 2118, 6100 Main St. - MS 134'
+        city: Houston
+        region: TX
         postcode: '94305'
         country: United States
         country_code: US
       directions: My office (#2118) is located on the second floor of Anne and Charles Duncan Hall.
       office_hours:
         - 'TBA'
-        - 'Wednesday 09:00 to 10:00'
+        - 'It is always welcome to stop by my office during weekdays when I'm available.'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
