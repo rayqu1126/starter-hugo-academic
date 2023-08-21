@@ -27,12 +27,12 @@ sections:
       items:
         - title: Undergraduate & Postbaccalaureate Research Assistant
           company: Physical Math Lab
-          company_url: ''
+          company_url: 'pml.unc.edu'
           company_logo:
           location: Chapel Hill, NC
           date_start: '2019-10'
           date_end: '2022-08'
-          description: 
+          description: Studied active spinwaves in hydrodymanic spin lattices (HSLs) with theoretical development and numerical experiments.
     design:
       columns: '2'
  
