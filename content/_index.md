@@ -40,7 +40,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: Mar 23, College Station TX, 2023 Finite Element Rodeo\
+      text: Mar 23, College Station TX, 2023 Finite Element Rodeo \newline
             Mar 23
     design:  
       columns: '2'
