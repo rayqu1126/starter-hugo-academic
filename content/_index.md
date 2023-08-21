@@ -62,16 +62,16 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: Ray.Qu@rice.edu
+      phone: N/A
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: Duncan Hall 2118, 6100 Main St. MS 134
+        city: Houston
+        region: TX
+        postcode: '77005'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: My office (#2118) is located on the second floor of Anne and Charles Duncan Hall.
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
