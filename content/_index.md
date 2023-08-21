@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2022-10
 type: landing
 
 sections:
@@ -30,8 +30,8 @@ sections:
           company_url: 'pml.unc.ed'
           company_logo:
           location: Chapel Hill, NC
-          date_start: '2019-10-01'
-          date_end: '2022-08-01'
+          date_start: '2019-10'
+          date_end: '2022-08'
           description: Studied active spinwaves in hydrodymanic spin lattices (HSLs) with theoretical development and numerical experiments.
     design:
       columns: '2'
