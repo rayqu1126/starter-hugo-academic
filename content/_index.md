@@ -13,6 +13,7 @@ sections:
       username: admin
     
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -44,6 +45,7 @@ sections:
       columns: '2'
     
   - block: collection
+    id: publication
     content:
       title: Recent Publications
       text: |-
