@@ -14,7 +14,7 @@ sections:
     
  - block: experience
    id: experience
-    content:
+   content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
