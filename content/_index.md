@@ -41,8 +41,7 @@ sections:
     content:
       title: Conference and Talks
       text: 2023 Finite Element Rodeo
-    design: |-
-    Mar 23. College Station, TX. 2023 Finite Element Rodeo.
+    design: |-Mar 23. College Station, TX. 2023 Finite Element Rodeo.
       columns: '2'
  
   - block: collection
