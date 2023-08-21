@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -30,12 +31,8 @@ sections:
           location: California
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -47,6 +44,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publication
     content:
       title: Publications
       text: |-
