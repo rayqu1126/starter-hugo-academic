@@ -77,8 +77,8 @@ sections:
         country_code: US
       directions: My office (#2118) is located on the second floor of Anne and Charles Duncan Hall.
       office_hours:
-      - 'TBA'
-      - 'TBA'
+      - 'Mon 1:00 - 2:00 pm'
+      - 'Fri 10:00 - 11:00 am'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
