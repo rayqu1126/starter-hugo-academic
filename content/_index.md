@@ -40,8 +40,8 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: Mar 23, College Station TX, 2023 Finite Element Rodeo <br>
-            Mar 23, College Station TX, 2023 Finite Element Rodeo
+      text: Mar 2023. College Station, TX, US. 2023 Finite Element Rodeo <br>
+            Nov 2022. Houston, TX, US. 5th SIAM TX-LA Annual Meeting
     design:  
       columns: '2'
  
