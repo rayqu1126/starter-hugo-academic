@@ -36,6 +36,17 @@ sections:
     design:
       columns: '2'
 
+    
+  - block: markdown
+    id: position
+    content:
+      title: Academic Positions
+      text: Mar 2023. Finite Element Rodeo. College Station, TX, US.<br>
+            Nov 2022. 5th SIAM TX-LA Annual Meeting. Houston, TX, US. 
+    design:  
+      columns: '2'
+
+ 
   - block: markdown
     id: conference
     content:
