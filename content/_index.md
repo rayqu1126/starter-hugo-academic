@@ -42,8 +42,9 @@ sections:
     content:
       title: Academic Positions
       text: Rice CMOR Grad Seminar Organizer<br>
-            Teching Assistant CMOR 302 Matrix Analysis<br>
-            Grader
+            Teching Assistant, CMOR 302 Matrix Analysis, FA 23<br>
+            Grader, CAAM 382 Stochastic Models, SP 23 <br>
+            Grader, CAAM 378 Intro to OR and Optimization, FA 22
     design:  
       columns: '2'
 
