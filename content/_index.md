@@ -41,7 +41,7 @@ sections:
     id: position
     content:
       title: Academic Positions
-      text: Mar 2023. Finite Element Rodeo. College Station, TX, US.<br>
+      text: Aug 2023 - present: Rice CMOR Grad Seminar Organizer<br>
             Nov 2022. 5th SIAM TX-LA Annual Meeting. Houston, TX, US. 
     design:  
       columns: '2'
