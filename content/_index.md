@@ -41,9 +41,7 @@ sections:
     id: position
     content:
       title: Academic Positions
-      text:  Aug 2023 to Present, Rice CMOR Grad Seminar Organizer <br>
-            Teaching Assistant: CMOR 302 Matrix Analysis (FA 23) <br>
-            Grader: CAAM 382 Stochastic Models (SP 23), CAAM 378 Intro to OR and Optimization (FA 22)
+      text:  Aug 2023 
     design:  
       columns: '2'
 
