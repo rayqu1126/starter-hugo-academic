@@ -37,14 +37,6 @@ sections:
       columns: '2'
 
   - block: markdown
-    id: position
-    content:
-      title: Academic Positions
-      text: 
-    design:  
-      columns: '2'
-
-  - block: markdown
     id: conference
     content:
       title: Conference and Talks
