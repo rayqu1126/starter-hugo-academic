@@ -36,18 +36,7 @@ sections:
     design:
       columns: '2'
 
-    
-   - block: markdown
-    id: position
-    content:
-      title: Academic Positions
-      text:  Aug 2023 
-    design:  
-      columns: '2'
-
-
-    
-
+  
   - block: markdown
     id: conference
     content:
