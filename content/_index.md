@@ -42,6 +42,7 @@ sections:
     content:
       title: Academic Positions
       text: Rice CMOR Grad Seminar Organizer<br>
+      
     design:  
       columns: '2'
 
