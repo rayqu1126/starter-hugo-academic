@@ -36,7 +36,6 @@ sections:
     design:
       columns: '2'
 
-  
   - block: markdown
     id: conference
     content:
