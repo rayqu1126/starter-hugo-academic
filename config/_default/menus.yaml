@@ -10,12 +10,18 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
+  - name: Positions
+    url: '#position'
+    weight: 30
+  - name: Conference
+    url: '#conference'
+    weight: 40
   - name: Publications
     url: '#publication'
-    weight: 30
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
