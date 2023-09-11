@@ -42,7 +42,6 @@ sections:
     content:
       title: Academic Positions
       text: Rice CMOR Grad Seminar Organizer<br>
-            Teaching Assistant CMOR 302 Matrix Analysis (FA 23)
       
     design:  
       columns: '2'
