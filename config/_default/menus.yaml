@@ -10,8 +10,8 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Positions
-    url: '#position'
+  - name: Roles
+    url: '#role'
     weight: 30
   - name: Conference
     url: '#conference'
