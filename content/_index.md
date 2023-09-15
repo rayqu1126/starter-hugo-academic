@@ -41,7 +41,7 @@ sections:
     id: role
     content:
       title: Academic Roles
-      text: "Rice CMOR Grad Seminar Organizer <br> Teching Assistant: CMOR 302 Matrix Analysis, FA 23 <br> Grader, CAAM 382 Stochastic Models, SP 23 <br> Grader, CAAM 378 Intro to OR and Optimization, FA 22"
+      text: "Rice CMOR Grad Seminar Organizer <br> Teching Assistant: CMOR 302 Matrix Analysis (FA 23) <br> Grader: CAAM 382 Stochastic Models (SP 23) <br> Grader: CAAM 378 Intro to OR and Optimization (FA 22)"
     design:  
       columns: '2'
 
@@ -50,8 +50,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: Mar 2023. Finite Element Rodeo. College Station, TX, US.<br>
-            Nov 2022. 5th SIAM TX-LA Annual Meeting. Houston, TX, US. 
+      text: "Mar 2023, Finite Element Rodeo (College Station, TX, US)<br> Nov 2022, 5th SIAM TX-LA Annual Meeting (Houston, TX, US)" 
     design:  
       columns: '2'
  
