@@ -37,6 +37,6 @@ highlight_name: true
 first_name: Ray
 email: Ray.Qu@rice.edu
 ---
-Welcome! I am a second-year Ph.D. student advised by Prof. [Jesse Chan](https://jlchan.github.io/) at Rice University Department of Computational Applied Mathematics & Operations Research ([CMOR](https://cmor.rice.edu/)). My research interests include physical math and numerical methods, with a focus on the entropy stable discontinuous Galerkin (ESDG) method. 
+Welcome! I am a second-year Ph.D. student advised by Prof. [Jesse Chan](https://jlchan.github.io/) at Rice University Department of Computational Applied Mathematics & Operations Research ([CMOR](https://cmor.rice.edu/)). My research interests include physical math and numerical methods, with a current focus on entropy stable reduced order modeling (ES-ROM) using discontinuous Galerkin (DG) methods. 
 
 I received my Bachelor of Science degree in two majors, math and statistics, with highest distinction from [the University of North Carolina at Chapel Hill](https://www.unc.edu/). During my undergraduate study, I was fortunate to work with Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and Prof. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228) on hydrodynamics spin lattices (HSLs).
