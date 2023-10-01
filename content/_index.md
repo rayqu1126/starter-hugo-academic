@@ -50,7 +50,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "23 Mar, Finite Element Rodeo (College Station, TX, US)<br> 22 Nov, 5th SIAM TX-LA Annual Meeting (Houston, TX, US)" 
+      text: "Mar 2023, Finite Element Rodeo (College Station, TX, US)<br> Nov 2022, 5th SIAM TX-LA Annual Meeting (Houston, TX, US)" 
     design:  
       columns: '2'
  
