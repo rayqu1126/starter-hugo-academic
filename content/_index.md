@@ -50,7 +50,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: 5th SIAM TX-LA Annual Meeting"
+      text: "Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf)) Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: 5th SIAM TX-LA Annual Meeting"
     design:  
       columns: '2'
  
