@@ -50,7 +50,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Nov 2023, Lafayette, LA: 6th SIAM TX-LA Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: 5th SIAM TX-LA Annual Meeting"
+      text: "Nov 2023, Lafayette, LA: SIAM TX-LA Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: SIAM TX-LA Annual Meeting"
     design:  
       columns: '2'
  
