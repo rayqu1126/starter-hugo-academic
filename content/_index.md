@@ -41,7 +41,7 @@ sections:
     id: role
     content:
       title: Academic Roles
-      text: "Member, [Research Training Group in Numerical Mathematics & Scientific Computing](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Organizer <br> Teching Assistant: CMOR 302 Matrix Analysis (FA 23) <br> Grader: CAAM 382 Stochastic Models (SP 23) <br> Grader: CAAM 378 Intro to OR and Optimization (FA 22)"
+      text: "Member, [Research Training Group in Numerical Mathematics & Scientific Computing](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair <br> Teching Assistant: CMOR 302 Matrix Analysis (FA 23) <br> Grader: CAAM 382 Stochastic Models (SP 23) <br> Grader: CAAM 378 Intro to OR and Optimization (FA 22)"
     design:  
       columns: '2'
 
@@ -50,7 +50,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: 5th SIAM TX-LA Annual Meeting"
+      text: "Nov 2023, Lafayette, LA: 6th SIAM TX-LA Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: 5th SIAM TX-LA Annual Meeting"
     design:  
       columns: '2'
  
