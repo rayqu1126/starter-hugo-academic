@@ -1,7 +1,7 @@
 ---
 title: Ray Qu 瞿锐
 role: Ph.D. Student in Computational and Applied Mathematics
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: null
 interests:
   - Numerical Methods
