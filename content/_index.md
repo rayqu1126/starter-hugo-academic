@@ -32,7 +32,7 @@ sections:
           location: Houston, TX
           date_start: '2023-01-01'
           date_end: ''
-          description:
+          description: Extending reduced order modeling of nonlinear conservation laws
 
         - title: Undergraduate & Postbaccalaureate Research Assistant
           company: Physical Math Lab
