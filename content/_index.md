@@ -35,14 +35,6 @@ sections:
           description: Extending reduced order modeling of nonlinear conservations laws from finite volume methods
 to discontinuous Galerkin methods with new hyper-reduction techniques.
 
-        - title: Undergraduate & Postbaccalaureate Research Assistant
-          company: Physical Math Lab
-          company_url: https://pml.unc.edu
-          company_logo:
-          location: Chapel Hill, NC
-          date_start: '2019-10-01'
-          date_end: '2022-08-01'
-          description: Studied active spinwaves in hydrodymanic spin lattices (HSLs) with theoretical development and numerical experiments.
     design:
       columns: '2'
 
