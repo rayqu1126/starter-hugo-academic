@@ -4,8 +4,9 @@ role: Ph.D. Student in Computational and Applied Mathematics
 avatar_filename: avatar.jpg
 bio: null
 interests:
-  - Numerical Methods
-  - Physical Math
+  - Reduced Order Modeling
+  - Numerical Methods for PDEs
+  - Mathematical Physics
 social:
   - icon: envelope
     icon_pack: fas
