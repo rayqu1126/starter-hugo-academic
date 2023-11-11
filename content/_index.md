@@ -32,7 +32,7 @@ sections:
           date_start: '2023-01-01'
           date_end: ''
           description: Extending reduced order modeling of nonlinear conservations laws from finite volume methods
-to discontinuous Galerkin methods with new hyper-reduction techniques.
+to discontinuous Galerkin methods with new hyper reduction techniques.
     
         - title: Undergraduate & Postbaccalaureate Research Assistant
           company: Physical Math Lab
