@@ -45,14 +45,6 @@ sections:
     design:  
       columns: '2'
 
-- block: markdown
-    id: teaching
-    content:
-      title: Teaching 
-      text: "Teching Assistant: CMOR 302 Matrix Analysis (FA 23) <br> Grader: CAAM 382 Stochastic Models (SP 23) <br> Grader: CAAM 378 Intro to OR and Optimization (FA 22)"
-    design:  
-      columns: '2'
-
   - block: markdown
     id: conference
     content:
