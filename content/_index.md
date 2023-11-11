@@ -49,7 +49,7 @@ to discontinuous Galerkin methods with new hyper-reduction techniques.
     id: service
     content:
       title: Academic Service
-      text: "Organizing Committee, RTG-NASC Ranch Retreat <br>Member, [RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair<br>Talk Organizer for Group Meetings, Chan Research Group"
+      text: "Organizing Committee, RTG-NASC Ranch Retreat<br>Member, [RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair<br>Talk Organizer for Group Meetings, Chan Research Group"
     design:  
       columns: '2'
     
