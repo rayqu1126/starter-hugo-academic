@@ -44,14 +44,15 @@ sections:
       text: "Member, [RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair"
     design:  
       columns: '2'
-
- - block: markdown
-   id: teaching
-   content:
-      title: Teaching
+    
+  - block: markdown
+    id: teaching
+    content:
+      title: Academic Service
       text: "Member, [RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair"
     design:  
       columns: '2'
+
    
   - block: markdown
     id: conference
