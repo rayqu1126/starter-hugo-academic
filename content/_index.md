@@ -38,10 +38,18 @@ sections:
 
     
   - block: markdown
-    id: role
+    id: service
     content:
-      title: Academic Roles
-      text: "Member, [RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair <br> Teching Assistant: CMOR 302 Matrix Analysis (FA 23) <br> Grader: CAAM 382 Stochastic Models (SP 23) <br> Grader: CAAM 378 Intro to OR and Optimization (FA 22)"
+      title: Academic Service
+      text: "Member, [RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair"
+    design:  
+      columns: '2'
+
+- block: markdown
+    id: teaching
+    content:
+      title: Teaching 
+      text: "Teching Assistant: CMOR 302 Matrix Analysis (FA 23) <br> Grader: CAAM 382 Stochastic Models (SP 23) <br> Grader: CAAM 378 Intro to OR and Optimization (FA 22)"
     design:  
       columns: '2'
 
