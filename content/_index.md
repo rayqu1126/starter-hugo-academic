@@ -25,22 +25,22 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Research Assistant
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company: Chan Research Group
+          company_url: 'https://jlchan.github.io'
+          company_logo:
+          location: Houston, TX
+          date_start: '2023-01-01'
           date_end: ''
           description:
     
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Undergraduate & Postbaccalaureate Research Assistant
+          company: Physical Math Lab
+          company_url: 'https://pml.unc.edu'
+          company_logo: 
+          location: Chapel Hill, NC
+          date_start: '2019-10-01'
+          date_end: '2022-08-01'
+          description: Studied active spinwaves in hydrodymanic spin lattices (HSLs) with theoretical development and numerical experiments.
     design:
       columns: '2'
     
