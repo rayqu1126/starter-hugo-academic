@@ -16,7 +16,7 @@ social:
     link: https://github.com/rayqu1126
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/ray-qu-rice/
+    link: https://linkedin.com/in/rayqu99/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
