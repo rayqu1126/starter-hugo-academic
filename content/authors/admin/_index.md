@@ -39,6 +39,6 @@ highlight_name: true
 first_name: Ray
 email: Ray.Qu@rice.edu
 ---
-Welcome! I am a second-year Ph.D. student advised by Prof. [Jesse Chan](https://jlchan.github.io/) at Department of Computational Applied Mathematics & Operations Research ([CMOR](https://cmor.rice.edu/)), Rice University. My research interests include physical math and numerical methods, with a current focus on entropy stable reduced order modeling (ES-ROM) of nonlinear conservation laws using discontinuous Galerkin (DG) methods. 
+Welcome! I'm a second-year Ph.D. student in Department of Computational Applied Mathematics & Operations Research ([CMOR](https://cmor.rice.edu/)) at Rice University, advised by Prof. [Jesse Chan](https://jlchan.github.io/). My research interests include mathematical physics and numerical methods, particularly entropy stable reduced order modeling (ES-ROM) of nonlinear conservation laws using discontinuous Galerkin (DG) methods.
 
-I received my Bachelor of Science degree in Math and Statistics with Highest Distinction from [the University of North Carolina at Chapel Hill](https://www.unc.edu/). During my undergraduate study, I was fortunate to work with Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and Prof. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228) on hydrodynamics spin lattices (HSLs).
+I received my Bachelor of Science in Math and Statistics with Highest Distinction from [the University of North Carolina at Chapel Hill](https://www.unc.edu/). My undergraduate research, guided by Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and Prof. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228), focused on hydrodynamics spin lattices (HSLs).
