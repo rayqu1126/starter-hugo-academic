@@ -49,7 +49,7 @@ sections:
     id: service
     content:
       title: Academic Service
-      text: "Organizing Committee, RTG-NASC Ranch Retreat<br>Member, [RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair"
+      text: "[RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair"
     design:  
       columns: '2'
     
@@ -66,7 +66,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo (attendee)<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting (attendee)"
+      text: "Mar 2024, Houston, TX: CMOR Grad Seminar ([talk](uploads/CMOR_seminar_2024.pdf))<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo (attendee)<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting (attendee)"
     design:  
       columns: '2'
  
