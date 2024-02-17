@@ -49,7 +49,7 @@ sections:
     id: service
     content:
       title: Academic Service
-      text: "[RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair<br>/CMOR 527 Discontinous Galerkin methods (SP 24, Grader)<br>CMOR 302 Matrix Analysis (FA 23, Teaching Assistant)<br>CAAM 382 Stochastic Models (SP 23, Grader)<br>CAAM 378 Intro to OR and Optimization (FA 22, Grader)"
+      text: "[RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair<br><br>CMOR 527 Discontinous Galerkin methods (SP 24, Grader)<br>CMOR 302 Matrix Analysis (FA 23, Teaching Assistant)<br>CAAM 382 Stochastic Models (SP 23, Grader)<br>CAAM 378 Intro to OR and Optimization (FA 22, Grader)"
     design:  
       columns: '2'
     
