@@ -13,7 +13,7 @@ main:
   - name: Service
     url: '#service'
     weight: 30
-  - name: Award
+  - name: Awards
     url: '#award'
     weight: 40
   - name: Conference
