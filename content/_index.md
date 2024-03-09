@@ -66,7 +66,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Upcoming: 2024 Finite Element Rodeo, 2024 WCCM<br>Feb 2024, Houston, TX: CMOR Grad Seminar ([talk](uploads/CMOR_seminar_2024.pdf))<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo (attendee)<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting (attendee)"
+      text: "Upcoming: 2024 WCCM<br>Mar 2024, Houston, TX: Finite Element Rodeo ([talk](uploads/Finite_Element_Rodeo_24.pdf))<br>Feb 2024, Houston, TX: CMOR Grad Seminar ([talk](uploads/CMOR_seminar_2024.pdf))<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo (attendee)<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting (attendee)"
     design:  
       columns: '2'
  
@@ -103,7 +103,7 @@ sections:
       directions: My office (#2118) is located on the second floor of Anne and Charles Duncan Hall.
       office_hours:
       - 'No office hour is scheduled at this time.'
-      - 'It is always welcome to stop by and chat with me.'
+      - 'It is always welcome to stop by.'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
