@@ -49,7 +49,7 @@ sections:
     id: service
     content:
       title: Academic Service/ Teaching Experience
-      text: "[RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair<br><br>CMOR 527 Discontinous Galerkin methods (SP 24, Grader)<br>CMOR 302 Matrix Analysis (FA 23, Teaching Assistant)<br>CAAM 382 Stochastic Models (SP 23, Grader)<br>CAAM 378 Intro to OR and Optimization (FA 22, Grader)"
+      text: "[RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair<br>CMOR 527 Discontinous Galerkin methods (SP 24, Grader)<br>CMOR 302 Matrix Analysis (FA 23, Teaching Assistant)<br>CAAM 382 Stochastic Models (SP 23, Grader)<br>CAAM 378 Intro to OR and Optimization (FA 22, Grader)"
     design:  
       columns: '2'
     
@@ -66,7 +66,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Upcoming: 2024 WCCM<br>Mar 2024, Houston, TX: Finite Element Rodeo ([talk](uploads/Finite_Element_Rodeo_24.pdf), [photo](https://ferodeo2024.rice.edu/photos))<br>Feb 2024, Houston, TX: CMOR Grad Seminar ([talk](uploads/CMOR_seminar_2024.pdf))<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo (attendee)<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting (attendee)"
+      text: "Upcoming: 2024 WCCM (Vancouver)<br>Mar 2024, Houston, TX: Finite Element Rodeo ([talk](uploads/Finite_Element_Rodeo_24.pdf), [photo](https://ferodeo2024.rice.edu/photos))<br>Feb 2024, Houston, TX: CMOR Grad Seminar ([talk](uploads/CMOR_seminar_2024.pdf))<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo (attendee)<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting (attendee)"
     design:  
       columns: '2'
  
