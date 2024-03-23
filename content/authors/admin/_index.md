@@ -39,8 +39,8 @@ highlight_name: true
 first_name: Ray
 email: Ray.Qu@rice.edu
 ---
-Welcome! I'm a second-year Ph.D. student, advised by Prof. [Jesse Chan](https://jlchan.github.io/), in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests include mathematical physics and numerical methods for PDEs, and I'm currently working on entropy stable reduced order modeling of nonlinear conservation laws using discontinuous Galerkin methods.
+Welcome! I'm a second-year Ph.D. student, advised by Prof. [Jesse Chan](https://jlchan.github.io/), in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests include mathematical physics and numerical methods for PDEs, and I'm currently working on entropy stable reduced order modeling (ES-ROM) of nonlinear conservation laws using discontinuous Galerkin (DG) methods.
 
-Outside of Rice, I'll also work in the Group of Applied Mathematics and Plasma Physics at Los Alamos National Lab during 2024 summer to study uncertain quantity problems in stochastic PDE systems.
+Outside of Rice, I'll also work in the Group of Applied Mathematics and Plasma Physics at Los Alamos National Lab during 2024 summer to study uncertain quantity (UQ) problems in stochastic PDE systems.
 
-I received my Bachelor of Science in Math and Statistics with Highest Distinction from [the University of North Carolina at Chapel Hill](https://www.unc.edu/). My undergraduate research, guided by Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and Prof. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228), focused on hydrodynamics spin lattices (HSLs).
+I received my Bachelor of Science in Math and Statistics with Highest Distinction from the University of North Carolina at Chapel Hill. My undergraduate research, guided by Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and Prof. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228), focused on hydrodynamics spin lattices (HSLs).
