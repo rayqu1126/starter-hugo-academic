@@ -43,4 +43,4 @@ Welcome! I'm a second-year Ph.D. student, advised by Prof. [Jesse Chan](https://
 
 Outside of Rice, I'll also work in the Group of Applied Mathematics and Plasma Physics at Los Alamos National Lab during 2024 summer to study uncertain quantity (UQ) problems in stochastic PDE systems.
 
-I received my Bachelor of Science in Math and Statistics with Highest Distinction from the University of North Carolina at Chapel Hill. My undergraduate research, guided by Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and Prof. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228), focused on hydrodynamics spin lattices (HSLs).
+I received my Bachelor of Science in Math and Statistics with Highest Distinction from the University of North Carolina at Chapel Hill. My undergraduate research, guided by Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and with help from Prof. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228), focused on hydrodynamics spin lattices (HSLs).
