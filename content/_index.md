@@ -92,7 +92,6 @@ sections:
       subtitle:
       # Contact (add or remove contact options as necessary)
       email: Ray.Qu@rice.edu
-      phone: (919)904-9996
       address:
         street: Duncan Hall 2118, 6100 Main St. -MS 134
         city: Houston
