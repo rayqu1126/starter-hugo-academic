@@ -39,8 +39,8 @@ highlight_name: true
 first_name: Ray
 email: Ray.Qu@rice.edu
 ---
-Welcome! I'm a second-year Ph.D. student, advised by Prof. [Jesse Chan](https://jlchan.github.io/), in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests include mathematical physics and numerical methods for PDEs, and I'm currently working on entropy stable reduced order modeling (ES-ROM) of nonlinear conservation laws using discontinuous Galerkin (DG) methods.
+Welcome! I'm a second-year Ph.D. student, advised by Dr. [Jesse Chan](https://jlchan.github.io/), in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests include mathematical physics and numerical methods for PDEs, and I'm currently working on entropy stable reduced order modeling (ES-ROM) of nonlinear conservation laws using discontinuous Galerkin (DG) methods.
 
-Outside of Rice, I'll spend 2024 summer in the Applied Mathematics and Plasma Physics Group (T-5), Los Alamos National Lab (LANL), applying model order reduction to uncertain quantification (UQ) problems in stochastic PDE systems.
+Outside of Rice, I'll spend 2024 summer in the Applied Mathematics and Plasma Physics Group, Los Alamos National Lab (LANL), applying model order reduction to uncertain quantification (UQ) problems in stochastic PDE systems.
 
-I received my Bachelor of Science in both Mathematics and Statistics with Highest Distinction from the University of North Carolina at Chapel Hill. My undergraduate research, under the mentorship of Prof. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and with assistance from Prof. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228), was on active spinwaves in hydrodynamics spin lattices (HSLs).
+I received my Bachelor of Science in both Mathematics and Statistics with Highest Distinction from the University of North Carolina at Chapel Hill. My undergraduate research, under the mentorship of Dr. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and with assistance from Dr. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228), was on active spinwaves in hydrodynamics spin lattices (HSLs).
