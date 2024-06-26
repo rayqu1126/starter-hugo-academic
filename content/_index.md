@@ -57,7 +57,7 @@ sections:
     id: award
     content:
       title: Awards
-      text: "2024 Alan Weiser Memorial Travel Award<br>2021 UNC Summer Graduation Scholarship"
+      text: "2024 MORe Participation Support<br>2024 Alan Weiser Memorial Travel Award<br>2021 UNC Summer Graduation Scholarship"
     design:  
       columns: '2'
 
