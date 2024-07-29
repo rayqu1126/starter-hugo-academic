@@ -66,7 +66,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Upcoming: MORe 2024, SIAM CSE 2025<br>July 2024, Vancouver, Canada: WCCM-PANCM ([talk](uploads/WCCM_2024.pdf))<br>Apr 2024, Houston, TX: RTG-NASC Ranch Retreat (talk)<br>Mar 2024, Houston, TX: Finite Element Rodeo ([talk](uploads/Finite_Element_Rodeo_24.pdf), [photo](https://ferodeo2024.rice.edu/photos), [news](https://engineering.rice.edu/news/finite-element-rodeo-returns-rice))<br>Feb 2024, Houston, TX: CMOR Grad Seminar ([talk](uploads/CMOR_seminar_2024.pdf))<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo (attendee)<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting (attendee)"
+      text: "Upcoming: MORe 2024, SIAM CSE 2025<br>July 2024, Vancouver, Canada: WCCM-PANCM ([talk](uploads/WCCM_2024.pdf))<br>Apr 2024, Houston, TX: RTG-NASC Ranch Retreat (talk)<br>Mar 2024, Houston, TX: Finite Element Rodeo ([talk](uploads/Finite_Element_Rodeo_24.pdf), [photo](https://ferodeo2024.rice.edu/photos), [news](https://engineering.rice.edu/news/finite-element-rodeo-returns-rice))<br>Feb 2024, Houston, TX: CMOR Grad Seminar ([talk](uploads/CMOR_seminar_2024.pdf))<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting ([poster](uploads/poster_DGROM.pdf))<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop ([poster](uploads/poster_DGROM.pdf))<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting"
     design:  
       columns: '2'
  
