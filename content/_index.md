@@ -36,7 +36,7 @@ sections:
 
           - title: Graduate Research Assistant
           company: Los Alamos National Laboratory
-          company_url: 'https://www.lanl.gov/'
+          company_url: 'https://www.lanl.gov'
           company_logo:
           location: Los Alamos, NM
           date_start: '2024-06-03'
