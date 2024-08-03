@@ -41,6 +41,6 @@ email: Ray.Qu@rice.edu
 ---
 Welcome! I'm a third-year Ph.D. student, advised by Dr. [Jesse Chan](https://sites.google.com/view/jessechan/home), in the Department of Computational Applied Mathematics & Operations Research at Rice University. My research interests include mathematical physics and numerical methods for PDEs, and I'm currently working on entropy stable reduced order models (ES-ROMs) of nonlinear conservation laws using discontinuous Galerkin methods.
 
-Outside of Rice, I spent 2024 summer in the Applied Mathematics and Plasma Physics Group (T-5), Los Alamos National Laboratory, applying model order reduction to uncertain quantification (UQ) problems in stochastic PDE systems.
+Outside of Rice, I spent 2024 summer in Los Alamos National Laboratory, mentored by Dr. [Svetlana Tokareva](https://organizations.lanl.gov/acgi/get-to-know-us/svetlana-tokareva).
 
 I received my B.S. degrees in Mathematics and Statistics with Highest Distinction from the University of North Carolina at Chapel Hill. My undergraduate research, mentored by Dr. [Pedro Sáenz](https://www.pml.unc.edu/about-me) and assisted by Dr. [Rodolfo Rosales](https://math.mit.edu/directory/profile.html?pid=228), was on active spinwaves in hydrodynamic spin lattices (HSLs).
