@@ -34,6 +34,15 @@ sections:
           date_end: ''
           description: Extending reduced order modeling of nonlinear conservation laws from finite volume methods to discontinuous Galerkin methods with new hyper reduction techniques.
 
+          - title: Graduate Research Assistant
+          company: Los Alamos National Laboratory
+          company_url: 'https://www.lanl.gov/'
+          company_logo:
+          location: Los Alamos, NM
+          date_start: '2024-06-03'
+          date_end: '2024-08-09'
+          description: Student in the Group of Applied Mathematics and Plasma Physics (T-5). Applied model order reduction to uncertain quantification in stochastic PDE systems. 
+
         - title: Undergraduate & Postbaccalaureate Research Assistant
           company: Physical Math Lab
           company_url: 'https://pml.unc.edu'
