@@ -34,7 +34,7 @@ sections:
           date_end: ''
           description: Extending reduced order modeling of nonlinear conservation laws from finite volume methods to discontinuous Galerkin methods with new hyper reduction techniques.
 
-          - title: Graduate Research Assistant
+        - title: Graduate Research Assistant
           company: Los Alamos National Laboratory
           company_url: 'https://www.lanl.gov'
           company_logo:
