@@ -44,7 +44,7 @@ sections:
           description: Student in the Group of Applied Mathematics and Plasma Physics (T-5). Applied model order reduction to stochastic fintie volume methods for uncertain quantification in stochastic PDE systems. 
 
         - title: Undergraduate & Postbaccalaureate Research Assistant
-          company: Physical Math Lab
+          company: Physical Mathematics Laboratory
           company_url: 'https://pml.unc.edu'
           company_logo: 
           location: Chapel Hill, NC
