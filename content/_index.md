@@ -41,7 +41,7 @@ sections:
           location: Los Alamos, NM
           date_start: '2024-06-03'
           date_end: '2024-08-09'
-          description: Student in the Group of Applied Mathematics and Plasma Physics (T-5). Applied model order reduction to uncertain quantification in stochastic PDE systems. 
+          description: Student in the Group of Applied Mathematics and Plasma Physics (T-5). Applied model order reduction to stochastic fintie volume methods for uncertain quantification in stochastic PDE systems. 
 
         - title: Undergraduate & Postbaccalaureate Research Assistant
           company: Physical Math Lab
