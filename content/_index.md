@@ -110,7 +110,6 @@ sections:
         country_code: US
       directions: My office (#2118) is located on the second floor of [Anne and Charles Duncan Hall](https://www.cs.rice.edu/~keith/DuncanHall/).
       office_hours:
-      - 'No office hour is scheduled at this time.'
       - 'It is always welcome to stop by.'
       # Automatically link email and phone or display as text?
       autolink: true
