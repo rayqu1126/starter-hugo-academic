@@ -50,7 +50,7 @@ sections:
           location: Chapel Hill, NC
           date_start: '2019-10-01'
           date_end: '2022-08-01'
-          description: Studied active spinwaves in hydrodymanic spin lattices (HSLs) with theoretical development and numerical experiments.
+          description: Studied active sprintronics enabling bistability-based computations in hydrodymanic spin lattices (HSLs).
     design:
       columns: '2'
     
@@ -75,7 +75,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Upcoming: SIAM CSE 2025<br>Oct, 2024, Houston, TX: RTG-NASC Annual Workshop ([talk](uploads/RTG_Workshop_24.pdf))<br>Sep 2024, Houston, TX: Master's Thesis Defense ([talk](uploads/Ray_MA_defense.pdf))<br>Sep 2024, La Jolla, CA: Model Order Reduction and Surrogate Modeling ([poster](uploads/Poster_MORe24.pdf))<br>Jul 2024, Vancouver, Canada: WCCM-PANACM (talk)<br>Apr 2024, Houston, TX: RTG-NASC Ranch Retreat (talk)<br>Mar 2024, Houston, TX: Finite Element Rodeo (talk, [photo](https://ferodeo2024.rice.edu/photos), [news](https://engineering.rice.edu/news/finite-element-rodeo-returns-rice))<br>Feb 2024, Houston, TX: CMOR Grad Seminar (talk)<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting (poster)<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop (poster)<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting"
+      text: "Upcoming: 2025 SIAM CSE, 2025 ICOSAHOM<br>Oct, 2024, Houston, TX: RTG-NASC Annual Workshop ([talk](uploads/RTG_Workshop_24.pdf))<br>Sep 2024, Houston, TX: Master's Thesis Defense ([talk](uploads/Ray_MA_defense.pdf))<br>Sep 2024, La Jolla, CA: Model Order Reduction and Surrogate Modeling ([poster](uploads/Poster_MORe24.pdf))<br>Jul 2024, Vancouver, Canada: WCCM-PANACM (talk)<br>Apr 2024, Houston, TX: RTG-NASC Ranch Retreat (talk)<br>Mar 2024, Houston, TX: Finite Element Rodeo (talk, [photo](https://ferodeo2024.rice.edu/photos), [news](https://engineering.rice.edu/news/finite-element-rodeo-returns-rice))<br>Feb 2024, Houston, TX: CMOR Grad Seminar (talk)<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting (poster)<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop (poster)<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting"
     design:  
       columns: '2'
  
