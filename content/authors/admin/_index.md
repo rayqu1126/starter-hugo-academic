@@ -25,7 +25,7 @@ organizations:
     url: https://cmor.rice.edu/
 education:
   courses:
-    - course: Ph.D. in Computational and Applied Mathematics, 2027 (expected)
+    - course: Ph.D. in Computational and Applied Mathematics, 2026 (expected)
       institution: Rice University
       year: ""
     - course: B.S. in Statistics and Analytics; B.S. in Mathematics
