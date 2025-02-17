@@ -18,11 +18,16 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Here are some of my recent publications.
+        Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+      filters:
+        folders:
+          - publication
     design:
       columns: '2'
       view: citation
+
+ 
  
   - block: experience
     id: experience
