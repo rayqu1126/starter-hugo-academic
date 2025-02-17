@@ -20,6 +20,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=nMyKqX4AAAAJ&hl=en&oi=ao
 organizations:
   - name: Rice University CMOR
     url: https://cmor.rice.edu/
