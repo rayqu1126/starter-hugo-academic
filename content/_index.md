@@ -58,7 +58,7 @@ sections:
     id: service
     content:
       title: Service
-      text: "[RTG in Numerical Mathematics & Scientific Computing (NASC)](https://rtg-nasc.rice.edu/) <br> 2023-2024, Rice CMOR Grad Seminar Chair<br>CMOR 304 Differential Equations in Engineering and Science (FA 24, Teaching Assistant)<br>CMOR 527 Discontinous Galerkin methods (SP 24, Grader)<br>CMOR 302 Matrix Analysis (FA 23, Teaching Assistant)<br>CAAM 382 Stochastic Models (SP 23, Grader)<br>CAAM 378 Intro to OR and Optimization (FA 22, Grader)"
+      text: "2025 RTG-NASC Ranch Retreat Organizing Committee<br> 2023-2024, Rice CMOR Grad Seminar Chair<br>CMOR 304 Differential Equations in Engineering and Science (FA 24, Teaching Assistant)<br>CMOR 527 Discontinous Galerkin methods (SP 24, Grader)<br>CMOR 302 Matrix Analysis (FA 23, Teaching Assistant)<br>CAAM 382 Stochastic Models (SP 23, Grader)<br>CAAM 378 Intro to OR and Optimization (FA 22, Grader)"
     design:  
       columns: '2'
     
@@ -75,7 +75,7 @@ sections:
     id: conference
     content:
       title: Conference and Talks
-      text: "Upcoming: 2025 SIAM CSE, 2025 ICOSAHOM<br>Oct, 2024, Houston, TX: RTG-NASC Annual Workshop ([talk](uploads/RTG_Workshop_24.pdf))<br>Sep 2024, Houston, TX: Master's Thesis Defense<br>Sep 2024, La Jolla, CA: Model Order Reduction and Surrogate Modeling ([poster](uploads/Poster_MORe24.pdf))<br>Jul 2024, Vancouver, Canada: WCCM-PANACM (talk)<br>Apr 2024, Houston, TX: RTG-NASC Ranch Retreat (talk)<br>Mar 2024, Houston, TX: Finite Element Rodeo (talk, [photo](https://ferodeo2024.rice.edu/photos), [news](https://engineering.rice.edu/news/finite-element-rodeo-returns-rice))<br>Feb 2024, Houston, TX: CMOR Grad Seminar (talk)<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting (poster)<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop (poster)<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting"
+      text: "Upcoming: 2025 SIAM CSE, 2025 ICOSAHOM, 2025 USNCCM18<br>Nov 2024, Houston, TX: CMOR Grad Seminar (talk)<br>Oct, 2024, Houston, TX: RTG-NASC Annual Workshop ([talk](uploads/RTG_Workshop_24.pdf))<br>Sep 2024, Houston, TX: Master's Thesis Defense<br>Sep 2024, La Jolla, CA: Model Order Reduction and Surrogate Modeling ([poster](uploads/Poster_MORe24.pdf))<br>Jul 2024, Vancouver, Canada: WCCM-PANACM (talk)<br>Apr 2024, Houston, TX: RTG-NASC Ranch Retreat (talk)<br>Mar 2024, Houston, TX: Finite Element Rodeo (talk, [photo](https://ferodeo2024.rice.edu/photos), [news](https://engineering.rice.edu/news/finite-element-rodeo-returns-rice))<br>Feb 2024, Houston, TX: CMOR Grad Seminar (talk)<br>Nov 2023, Lafayette, LA: SIAM TX-LA 6th Annual Meeting (poster)<br>Oct 2023, Houston, TX: RTG-NASC Annual Workshop (poster)<br>Mar 2023, College Station, TX: Finite Element Rodeo<br>Nov 2022, Houston, TX: SIAM TX-LA 5th Annual Meeting"
     design:  
       columns: '2'
  
