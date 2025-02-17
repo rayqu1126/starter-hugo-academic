@@ -55,14 +55,6 @@ sections:
       columns: '2'
     
   - block: markdown
-    id: service
-    content:
-      title: Service
-      text: "2025 RTG-NASC Ranch Retreat Organizing Committee<br> 2023-2024, Rice CMOR Grad Seminar Chair<br>CMOR 304 Differential Equations in Engineering and Science (FA 24, Teaching Assistant)<br>CMOR 527 Discontinous Galerkin methods (SP 24, Grader)<br>CMOR 302 Matrix Analysis (FA 23, Teaching Assistant)<br>CAAM 382 Stochastic Models (SP 23, Grader)<br>CAAM 378 Intro to OR and Optimization (FA 22, Grader)"
-    design:  
-      columns: '2'
-    
-  - block: markdown
     id: award
     content:
       title: Awards
