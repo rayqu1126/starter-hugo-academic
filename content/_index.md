@@ -66,7 +66,7 @@ sections:
     id: award
     content:
       title: Awards
-      text: "2024 MORe Conference Support<br>2024 Alan Weiser Memorial Travel Award<br>2021 UNC Summer Graduation Scholarship"
+      text: "2025 SIAM CSE Student Travel Award<br>2024 MORe Travel Award<br>2024 Alan Weiser Memorial Travel Award<br>2021 UNC Summer Graduation Scholarship"
     design:  
       columns: '2'
 
