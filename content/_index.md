@@ -85,11 +85,8 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Here are some of my recent publications.
         {{% /callout %}}
-      filters:
-        folders:
-          - publication
     design:
       columns: '2'
       view: citation
