@@ -42,7 +42,7 @@ highlight_name: true
 first_name: Ray
 email: Ray.Qu@rice.edu
 ---
-Welcome! I'm a third-year Ph.D. student, advised by Dr. [Jesse Chan](https://sites.google.com/view/jessechan/home), in the Department of Computational Applied Mathematics and Operations Research at Rice University. My research interests include mathematical physics and numerical methods for PDEs, and I'm currently working on entropy stable reduced order modeling (ES-ROM) of nonlinear conservation laws using discontinuous Galerkin methods.
+Welcome! I'm a fourth-year Ph.D. student, advised by Dr. [Jesse Chan](https://sites.google.com/view/jessechan/home), in the Department of Computational Applied Mathematics and Operations Research at Rice University. My research interests include mathematical physics and numerical methods for PDEs, and I'm currently working on entropy stable reduced order modeling (ES-ROM) of nonlinear conservation laws using discontinuous Galerkin methods.
 
 Outside of Rice, my experience includes an internship at Los Alamos National Laboratory, mentored by Dr. Svetlana Tokareva, where I applied model order reduction to stochastic finite volume methods for uncertainty quantification.
 
